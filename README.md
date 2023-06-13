@@ -44,6 +44,7 @@ How it works:
 
 ### Built With
 * [![ChatGPT][ChatGPT-badge]][ChatGPT-url]
+* [![Python][Python-badge]][Python-url]
 * [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,5 +62,7 @@ Create cover letter and use it to apply for the job.
 <!-- MARKDOWN LINKS -->
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [ChatGPT-url]: https://openai.com/blog/chatgpt
+[Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
 [JupyterNotebook-badge]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 [JupyterNotebook-url]: https://jupyter.org/
