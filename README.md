@@ -56,7 +56,9 @@ How it works:
 + Enter your OpenAI API key, name, address, phone number, email, education, work experience, skills, salary expectations and possible start date in your_secrets.py.
 
 ### Create Cover Letter
-Create cover letter and use it to apply for the job.
++ Run cover_letter_generator.ipynb to create three cover letter suggestions.
++ Pick the best cover letter, fine-tune it to your needs and use it to apply for the job.
++ To create a cover letter in German language, run cover_letter_generator_de.ipynb.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
