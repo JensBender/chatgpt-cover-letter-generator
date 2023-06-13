@@ -30,6 +30,13 @@
         <li><a href="#enter-information">Enter Information</a></li>
         <li><a href="#create-cover-letter">Create Cover Letter</a></li>
     </ul>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
 </ol>
 
 <!-- ABOUT THE PROJECT -->
@@ -61,6 +68,32 @@ How it works:
 + To create a cover letter in German language, run cover_letter_generator_de.ipynb.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Follow these steps to get the program running on your local machine.
+
+### Prerequisites
+
+This is a list of things you need to use this program.
+<ul>
+  <li>Python packages</li>
+  <ul>
+    <li>Openai</li>
+    <li>Requests</li>
+    <li>Beautiful soup</li>
+  </ul>
+  <li>OpenAI account</li>
+</ul>
+
+### Installation
+
+1. Install the following packages: Openai, Requests, and Beautiful soup.
+2. Create an OpenAI account, create an API key and paste it in `your_secrets.py`.
+    ```
+    OPENAI_API_KEY = "Your_OPENAI_API_key_here"
+    ```
 
 <!-- MARKDOWN LINKS -->
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
