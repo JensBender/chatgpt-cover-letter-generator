@@ -52,7 +52,8 @@ How it works:
 <!-- USAGE -->
 ## Usage
 ### Enter Information
-Enter URL to job posting and information about your name, work experience, skills, motivation to work for this employer, motivation to work in this role and motivation to work in this position.
++ Enter the URL of the job posting and your motivation to apply for the job in your_target_job.py. 
++ Enter your OpenAI API key, name, address, phone number, email, education, work experience, skills, salary expectations and possible start date in your_secrets.py.
 
 ### Create Cover Letter
 Create cover letter and use it to apply for the job.
