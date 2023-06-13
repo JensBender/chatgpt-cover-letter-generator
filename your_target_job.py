@@ -1,2 +1,2 @@
-job_description_url = "URL_zur_Stellenbeschreibung_hier_einfügen"
-motivation = "Deine_Motivation_für_die_Stelle_hier_einfügen"
+job_description_url = "URL_of_job_posting_here"
+motivation = "Your_motivation_for_the_job_here"
