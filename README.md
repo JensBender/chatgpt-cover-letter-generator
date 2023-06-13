@@ -40,7 +40,7 @@ How it works:
 + Enter the URL of the job posting you want to apply for and information about yourself. 
 + The ChatGPT cover letter generator will extract information about the employer, the position, the tasks, the requirements, the contact person and the company address from the job posting. 
 + Then, it will match the education, work experience, skills, and motivation that you provided to the tasks and requirements of the job posting. 
-+ Moreover, it will add your salary expectations and possible start date and create two cover letter suggestions that you can fine-tune to apply for the job.
++ Finally, it will add your salary expectations and possible start date and create three cover letter suggestions that you can fine-tune to apply for the job.
 
 ### Built With
 * [![ChatGPT][ChatGPT-badge]][ChatGPT-url]
