@@ -146,19 +146,49 @@ How it works:
 
   Dear Hiring Manager,
 
-  I am writing to apply for the Research Scientist position at OpenAI. With a strong educational background in computer science and machine learning, along with relevant work experience and a passion for AI technology, I believe I possess the necessary qualifications and motivation to excel in this role.
+  I am writing to apply for the Research Scientist position at OpenAI. 
+  With a strong educational background in computer science and machine 
+  learning, along with relevant work experience and a passion for AI 
+  technology, I believe I possess the necessary qualifications and 
+  motivation to excel in this role.
 
-  In terms of requirements, I have a track record of coming up with new ideas and improving upon existing ideas in machine learning. My Master of Science in Machine Learning from ABC University, along with my work as a Machine Learning Engineer at ABC Tech Solutions, have provided me with hands-on experience in designing and implementing machine learning algorithms. I have also utilized various frameworks such as TensorFlow, PyTorch, and scikit-learn to develop and deploy scalable machine learning pipelines. Additionally, I possess strong programming skills in Python and R, and I am proficient in data manipulation and analysis using Pandas and NumPy.
+  In terms of requirements, I have a track record of coming up with new 
+  ideas and improving upon existing ideas in machine learning. My Master of 
+  Science in Machine Learning from ABC University, along with my work as a 
+  Machine Learning Engineer at ABC Tech Solutions, have provided me with 
+  hands-on experience in designing and implementing machine learning 
+  algorithms. I have also utilized various frameworks such as TensorFlow, 
+  PyTorch, and scikit-learn to develop and deploy scalable machine learning 
+  pipelines. Additionally, I possess strong programming skills in Python 
+  and R, and I am proficient in data manipulation and analysis using Pandas 
+  and NumPy.
 
-  Furthermore, I am excited about OpenAI's approach to research and its impact on the field of AI. As an active and highly satisfied user of ChatGPT, I have witnessed firsthand the capabilities and potential of OpenAI's technology. I am also thoughtful about the impacts of AI and its ethical considerations, making me an ideal candidate for the role.
+  Furthermore, I am excited about OpenAI's approach to research and its 
+  impact on the field of AI. As an active and highly satisfied user of 
+  ChatGPT, I have witnessed firsthand the capabilities and potential of 
+  OpenAI's technology. I am also thoughtful about the impacts of AI and its 
+  ethical considerations, making me an ideal candidate for the role.
 
-  In terms of tasks, I am confident in my ability to develop innovative machine learning techniques and advance the research agenda of the team. I have a collaborative mindset and have successfully collaborated with peers across organizations in the past. Additionally, my experience in creating high-performance implementations of deep learning algorithms aligns with the nice-to-have requirement of the position.
+  In terms of tasks, I am confident in my ability to develop innovative 
+  machine learning techniques and advance the research agenda of the team. 
+  I have a collaborative mindset and have successfully collaborated with 
+  peers across organizations in the past. Additionally, my experience in 
+  creating high-performance implementations of deep learning algorithms 
+  aligns with the nice-to-have requirement of the position.
 
-  Regarding my education, I hold a Bachelor of Science in Computer Science from XYZ University and a Master of Science in Machine Learning from ABC University. My educational background, coupled with my practical experience, has equipped me with a strong foundation in both theoretical concepts and practical applications of machine learning.
+  Regarding my education, I hold a Bachelor of Science in Computer Science 
+  from XYZ University and a Master of Science in Machine Learning from ABC 
+  University. My educational background, coupled with my practical 
+  experience, has equipped me with a strong foundation in both theoretical 
+  concepts and practical applications of machine learning.
 
-  In terms of salary expectations, I am seeking a range of $100,000 - $120,000 per year. My possible start date would be October 1, 2023.
+  In terms of salary expectations, I am seeking a range of $100,000 - 
+  $120,000 per year. My possible start date would be October 1, 2023.
 
-  Thank you for considering my application. I am excited about the opportunity to contribute to OpenAI's research efforts and advance the field of AI. I have attached my resume for your review. I look forward to the possibility of discussing my qualifications further.
+  Thank you for considering my application. I am excited about the 
+  opportunity to contribute to OpenAI's research efforts and advance the 
+  field of AI. I have attached my resume for your review. I look forward to 
+  the possibility of discussing my qualifications further.
 
   Sincerely,
 
