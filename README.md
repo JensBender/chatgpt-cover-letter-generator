@@ -45,7 +45,30 @@ Utilize AI to write your cover letter.
 
 How it works:
 + Enter the URL of the job posting you want to apply for and information about yourself. 
-+ The ChatGPT cover letter generator will extract information about the employer, the position, the tasks, the requirements, the contact person and the company address from the job posting. 
++ The ChatGPT cover letter generator will extract information about the employer, the job title, the requirements, the tasks, the contact person and the company address from the job posting. 
+  ```
+  {
+    "employer": "OpenAI",
+    "job title": "Research Scientist",
+    "requirements": [
+      "Track record of coming up with new ideas or improving 
+      upon existing ideas in machine learning",
+      "Ability to own and pursue a research agenda",
+      "Excitement about OpenAI's approach to research",
+      "Nice to have: Interested in and thoughtful about the 
+      impacts of AI technology",
+      "Nice to have: Past experience in creating high-
+      performance implementations of deep learning algorithms"
+    ],
+    "tasks": [
+      "Develop innovative machine learning techniques",
+      "Advance the research agenda of the team",
+      "Collaborate with peers across the organization"
+    ],
+    "contact person": "unknown",
+    "address": "San Francisco, California, United States"
+  }
+  ```
 + Then, it will match the education, work experience, skills, and motivation that you provided to the tasks and requirements of the job posting. 
 + Finally, it will add your salary expectations and possible start date and create three cover letter suggestions that you can fine-tune to apply for the job.
 
