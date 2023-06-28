@@ -105,6 +105,7 @@ How it works:
     salary_expectations = "$100,000 - $120,000 per year"
     possible_start_date = "2023-10-01"
     ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Create Cover Letter
 + Run `cover_letter_generator.ipynb`. This will extract the relevant information from the job description in json format.
@@ -223,6 +224,7 @@ This is a list of things you need to use this program.
     ```
     OPENAI_API_KEY = "Your_OPENAI_API_key_here"
     ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS -->
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
