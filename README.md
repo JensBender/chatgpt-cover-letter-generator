@@ -60,6 +60,14 @@ How it works:
 ## Usage
 ### Enter Information
 + Enter the URL of the job posting and your motivation to apply for the job in `your_target_job.py`. 
+    ```
+    job_description_url = "https://openai.com/careers/research-scientist"
+    motivation = """
+    Active and highly satisfied ChatGPT user.
+    Fascination for data and all things AI.
+    Use my machine learning skills to contribute to the advancement of AI technology.
+    """
+    ```
 + Enter your OpenAI API key, name, address, phone number, email, education, work experience, skills, salary expectations and possible start date in `your_secrets.py`.
 
 ### Create Cover Letter
