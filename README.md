@@ -120,8 +120,8 @@ How it works:
       "Excitement about OpenAI's approach to research",
       "Nice to have: Interested in and thoughtful about the 
       impacts of AI technology",
-      "Nice to have: Past experience in creating high-
-      performance implementations of deep learning algorithms"
+      "Nice to have: Past experience in creating high-performance 
+      implementations of deep learning algorithms"
     ],
     "tasks": [
       "Develop innovative machine learning techniques",
