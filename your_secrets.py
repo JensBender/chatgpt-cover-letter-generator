@@ -21,3 +21,7 @@ Describe_your_skills_here
 
 salary_expectations = "Your_salary_expectations_here"
 possible_start_date = "Your_possible_start_date_here"
+
+# Target job details
+job_description_url = "URL_of_job_posting_here"
+motivation = "Your_motivation_for_the_job_here"
