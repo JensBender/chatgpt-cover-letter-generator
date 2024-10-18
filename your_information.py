@@ -30,6 +30,7 @@ motivation = "Your_motivation_for_the_job_here"
 # =========================
 #         EXAMPLE       
 # =========================
+
 # # Cover letter input
 # name = "John Doe"
 # address = "123 Main Street, Anytown, USA"
