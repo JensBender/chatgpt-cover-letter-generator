@@ -220,10 +220,20 @@ This is a list of things you need to use this program.
 ### Installation
 
 1. Install the following packages: Openai, Requests, and Beautiful soup.
-2. Create an OpenAI account, create an API key and paste it in `your_secrets.py`.
+2. Set up OpenAI API
+  - Log in to your OpenAI account or create one if you haven't already.
+  - Create a new project.
+    - Navigate to your account **Dashboard** and click **Create project**.
+    - Name your project `chatgpt-cover-letter-generator` (or choose another name).
+  - Create an API key.
+    - In the **Dashboard**, navigate to **API keys**.
+    - Name the key (e.g., chatgpt-cover-letter-generator) and and click **Create new secret key**.
+    - Under **Permissions**, select **Restricted** and allow only **Write** permissions for **Model capabilities** for better security.
+  - Save your API key in `your_information.py`:
     ```
     OPENAI_API_KEY = "Your_OPENAI_API_key_here"
     ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS -->
