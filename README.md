@@ -38,6 +38,9 @@
         <li><a href="#set-up-openai-api">Set Up OpenAI API</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#️-license">License</a>
+    </li>
 </ol>
 
 
@@ -241,6 +244,13 @@ pip install -r requirements.txt
   ```
   OPENAI_API_KEY = "Your_OPENAI_API_key_here"
   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+## ©️ License
+This project is licensed under the [MIT License](LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
