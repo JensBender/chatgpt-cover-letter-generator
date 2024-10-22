@@ -207,14 +207,14 @@ Follow these steps to set up the ChatGPT Cover Letter Generator on your local ma
 ### Prerequisites
 Ensure you have the following in place before proceeding.
 - **Python 3.10 or higher**: Installed on your local machine.
-- **Python Packages**:
+- **Python Packages**: These will be installed using `requirements.txt` in the next step.
   - **OpenAI**: To interact with OpenAI's chat completions API.
   - **Requests**: To make HTTP requests to get job postings from the web.
   - **BeautifulSoup**: To parse HTML content to extract job descriptions.
 - **OpenAI Account**: To generate an API key for accessing the OpenAI API.
 
-### Install Python Dependencies
-Ensure you have pip installed, then install the required dependencies listed in `requirements.txt`:
+### Install Python Packages
+Ensure you have **pip** installed. Then, install the required dependencies listed in `requirements.txt`:
 ```
 pip install -r requirements.txt
 ```
