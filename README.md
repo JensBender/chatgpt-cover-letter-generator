@@ -15,7 +15,7 @@
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -39,8 +39,9 @@
     </li>
 </ol>
 
+
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 💡 About The Project
 Utilize AI to write your cover letter. 
 
 How it works:
@@ -49,16 +50,17 @@ How it works:
 + Then, it will match the education, work experience, skills, and motivation that you provided to the tasks and requirements of the job posting. 
 + Finally, it will add your salary expectations and possible start date and create three cover letter suggestions that you can fine-tune to apply for the job.
 
-### Built With
+### 🛠️ Built With
 * [![ChatGPT][ChatGPT-badge]][ChatGPT-url]
 * [![Python][Python-badge]][Python-url]
 * [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- USAGE -->
-## Usage
-### Enter Information
+## 💻 Usage
+### 🖊️ Enter Information
 + Enter the URL of the job posting and your motivation to apply for the job in `your_target_job.py`. 
     ```
     job_description_url = "https://openai.com/careers/research-scientist"
@@ -107,7 +109,8 @@ How it works:
     ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Create Cover Letter
+
+### 📝 Create Cover Letter
 + Run `cover_letter_generator.ipynb`. This will extract the relevant information from the job description in json format.
   ```
   {
@@ -199,8 +202,9 @@ How it works:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- GETTING STARTED -->
-## Getting Started
+## 🚀 Getting Started
 
 Follow these steps to set up the ChatGPT Cover Letter Generator on your local machine.
 
@@ -234,6 +238,7 @@ pip install -r requirements.txt
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS -->
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
