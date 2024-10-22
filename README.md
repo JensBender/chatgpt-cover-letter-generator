@@ -261,8 +261,8 @@ This project is licensed under the [MIT License](LICENSE).
 <!-- CREDITS -->
 ## 👏 Credits
 This project was made possible with the help of the following resources and tutorials:
-- **Project Logo**: Designed using [LOGO.com](https://logo.com/).
-- **OpenAI API**: The following short courses by Andrew Ng and Isa Fulford. 
+- **Project Logo**: Created using [LOGO.com](https://logo.com/).
+- **OpenAI API**: Short courses by Andrew Ng and Isa Fulford on DeepLearning.AI. 
   - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/).
   - [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/).
 
