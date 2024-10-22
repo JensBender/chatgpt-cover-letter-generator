@@ -114,94 +114,96 @@ possible_start_date = "2023-10-01"
 
 
 ### 📝 Create Cover Letter
-+ Run `cover_letter_generator.ipynb`. This will extract the relevant information from the job description in json format.
-  ```
-  {
-    "employer": "OpenAI",
-    "job title": "Research Scientist",
-    "requirements": [
-      "Track record of coming up with new ideas or improving 
-      upon existing ideas in machine learning",
-      "Ability to own and pursue a research agenda",
-      "Excitement about OpenAI's approach to research",
-      "Nice to have: Interested in and thoughtful about the 
-      impacts of AI technology",
-      "Nice to have: Past experience in creating high-performance 
-      implementations of deep learning algorithms"
-    ],
-    "tasks": [
-      "Develop innovative machine learning techniques",
-      "Advance the research agenda of the team",
-      "Collaborate with peers across the organization"
-    ],
-    "contact person": "unknown",
-    "address": "San Francisco, California, United States"
-  }
-  ```
-+ Next, the `cover_letter_generator.ipynb` will create three cover letter suggestions. Pick the best cover letter, fine-tune it to your needs and use it to apply for the job.
-  ```
-  John Doe
-  123 Main Street
-  Anytown, USA
-  +1 (555) 123-4567
-  john.doe@email.com
+Run `cover_letter_generator.ipynb`. This will extract the relevant information from the job description in json format.
+```
+{
+  "employer": "OpenAI",
+  "job title": "Research Scientist",
+  "requirements": [
+    "Track record of coming up with new ideas or improving 
+    upon existing ideas in machine learning",
+    "Ability to own and pursue a research agenda",
+    "Excitement about OpenAI's approach to research",
+    "Nice to have: Interested in and thoughtful about the 
+    impacts of AI technology",
+    "Nice to have: Past experience in creating high-performance 
+    implementations of deep learning algorithms"
+  ],
+  "tasks": [
+    "Develop innovative machine learning techniques",
+    "Advance the research agenda of the team",
+    "Collaborate with peers across the organization"
+  ],
+  "contact person": "unknown",
+  "address": "San Francisco, California, United States"
+}
+```
 
-  June 28, 2023
+Next, the `cover_letter_generator.ipynb` will create three cover letter suggestions. Pick the best cover letter, fine-tune it to your needs and use it to apply for the job.
+```
+John Doe
+123 Main Street
+Anytown, USA
++1 (555) 123-4567
+john.doe@email.com
 
-  OpenAI
-  San Francisco, California, United States
+June 28, 2023
 
-  Dear Hiring Manager,
+OpenAI
+San Francisco, California, United States
 
-  I am writing to apply for the Research Scientist position at OpenAI. 
-  With a strong educational background in computer science and machine 
-  learning, along with relevant work experience and a passion for AI 
-  technology, I believe I possess the necessary qualifications and 
-  motivation to excel in this role.
+Dear Hiring Manager,
 
-  In terms of requirements, I have a track record of coming up with new 
-  ideas and improving upon existing ideas in machine learning. My Master of 
-  Science in Machine Learning from ABC University, along with my work as a 
-  Machine Learning Engineer at ABC Tech Solutions, have provided me with 
-  hands-on experience in designing and implementing machine learning 
-  algorithms. I have also utilized various frameworks such as TensorFlow, 
-  PyTorch, and scikit-learn to develop and deploy scalable machine learning 
-  pipelines. Additionally, I possess strong programming skills in Python 
-  and R, and I am proficient in data manipulation and analysis using Pandas 
-  and NumPy.
+I am writing to apply for the Research Scientist position at OpenAI. 
+With a strong educational background in computer science and machine 
+learning, along with relevant work experience and a passion for AI 
+technology, I believe I possess the necessary qualifications and 
+motivation to excel in this role.
 
-  Furthermore, I am excited about OpenAI's approach to research and its 
-  impact on the field of AI. As an active and highly satisfied user of 
-  ChatGPT, I have witnessed firsthand the capabilities and potential of 
-  OpenAI's technology. I am also thoughtful about the impacts of AI and its 
-  ethical considerations, making me an ideal candidate for the role.
+In terms of requirements, I have a track record of coming up with new 
+ideas and improving upon existing ideas in machine learning. My Master of 
+Science in Machine Learning from ABC University, along with my work as a 
+Machine Learning Engineer at ABC Tech Solutions, have provided me with 
+hands-on experience in designing and implementing machine learning 
+algorithms. I have also utilized various frameworks such as TensorFlow, 
+PyTorch, and scikit-learn to develop and deploy scalable machine learning 
+pipelines. Additionally, I possess strong programming skills in Python 
+and R, and I am proficient in data manipulation and analysis using Pandas 
+and NumPy.
 
-  In terms of tasks, I am confident in my ability to develop innovative 
-  machine learning techniques and advance the research agenda of the team. 
-  I have a collaborative mindset and have successfully collaborated with 
-  peers across organizations in the past. Additionally, my experience in 
-  creating high-performance implementations of deep learning algorithms 
-  aligns with the nice-to-have requirement of the position.
+Furthermore, I am excited about OpenAI's approach to research and its 
+impact on the field of AI. As an active and highly satisfied user of 
+ChatGPT, I have witnessed firsthand the capabilities and potential of 
+OpenAI's technology. I am also thoughtful about the impacts of AI and its 
+ethical considerations, making me an ideal candidate for the role.
 
-  Regarding my education, I hold a Bachelor of Science in Computer Science 
-  from XYZ University and a Master of Science in Machine Learning from ABC 
-  University. My educational background, coupled with my practical 
-  experience, has equipped me with a strong foundation in both theoretical 
-  concepts and practical applications of machine learning.
+In terms of tasks, I am confident in my ability to develop innovative 
+machine learning techniques and advance the research agenda of the team. 
+I have a collaborative mindset and have successfully collaborated with 
+peers across organizations in the past. Additionally, my experience in 
+creating high-performance implementations of deep learning algorithms 
+aligns with the nice-to-have requirement of the position.
 
-  In terms of salary expectations, I am seeking a range of $100,000 - 
-  $120,000 per year. My possible start date would be October 1, 2023.
+Regarding my education, I hold a Bachelor of Science in Computer Science 
+from XYZ University and a Master of Science in Machine Learning from ABC 
+University. My educational background, coupled with my practical 
+experience, has equipped me with a strong foundation in both theoretical 
+concepts and practical applications of machine learning.
 
-  Thank you for considering my application. I am excited about the 
-  opportunity to contribute to OpenAI's research efforts and advance the 
-  field of AI. I have attached my resume for your review. I look forward to 
-  the possibility of discussing my qualifications further.
+In terms of salary expectations, I am seeking a range of $100,000 - 
+$120,000 per year. My possible start date would be October 1, 2023.
 
-  Sincerely,
+Thank you for considering my application. I am excited about the 
+opportunity to contribute to OpenAI's research efforts and advance the 
+field of AI. I have attached my resume for your review. I look forward to 
+the possibility of discussing my qualifications further.
 
-  John Doe
-  ```
-+ To create a cover letter in German language, run `cover_letter_generator_de.ipynb`.
+Sincerely,
+
+John Doe
+```
+
+To create a cover letter in German language, run `cover_letter_generator_de.ipynb`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
