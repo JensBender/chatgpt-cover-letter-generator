@@ -274,5 +274,5 @@ This project was made possible with the help of the following resources and tuto
 [ChatGPT-url]: https://openai.com/blog/chatgpt
 [Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
-[JupyterNotebook-badge]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[JupyterNotebook-badge]: https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
 [JupyterNotebook-url]: https://jupyter.org/
