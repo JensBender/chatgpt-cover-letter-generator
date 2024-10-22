@@ -60,6 +60,8 @@ How it works:
 ### 🛠️ Built With
 - [![ChatGPT][ChatGPT-badge]][ChatGPT-url]
 - [![Python][Python-badge]][Python-url]
+- [![Requests][Requests-badge]][Requests-url]
+- [![Beautiful Soup][BeautifulSoup-badge]][BeautifulSoup-url]
 - [![Jupyter Notebook][JupyterNotebook-badge]][JupyterNotebook-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -274,5 +276,9 @@ This project was made possible with the help of the following resources and tuto
 [ChatGPT-url]: https://openai.com/blog/chatgpt
 [Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
+[Requests-badge]: https://img.shields.io/badge/Requests-black?style=for-the-badge
+[Requests-url]: https://requests.readthedocs.io/
+[BeautifulSoup-badge]: https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=for-the-badge
+[BeautifulSoup-url]: https://www.crummy.com/software/BeautifulSoup/
 [JupyterNotebook-badge]: https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
 [JupyterNotebook-url]: https://jupyter.org/
