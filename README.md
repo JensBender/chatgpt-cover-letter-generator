@@ -33,9 +33,9 @@
   <li>
     <a href="#-getting-started">Getting Started</a>
     <ul>
-      <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#install-python-packages">Install Python Packages</a></li>
-      <li><a href="#set-up-openai-api">Set Up OpenAI API</a></li>
+      <li><a href="#️-prerequisites">Prerequisites</a></li>
+      <li><a href="#-install-python-packages">Install Python Packages</a></li>
+      <li><a href="#-set-up-openai-api">Set Up OpenAI API</a></li>
     </ul>
   </li>
   <li>
@@ -221,7 +221,7 @@ To create a cover letter in German language, run `cover_letter_generator_de.ipyn
 
 Follow these steps to set up the ChatGPT Cover Letter Generator on your local machine.
 
-### Prerequisites
+### ✔️ Prerequisites
 Ensure you have the following in place before proceeding.
 - **Python 3.10 or higher**: Installed on your local machine.
 - **Python Packages**: These will be installed using `requirements.txt` in the next step.
@@ -230,13 +230,13 @@ Ensure you have the following in place before proceeding.
   - **BeautifulSoup**: To parse HTML content to extract job descriptions.
 - **OpenAI Account**: To generate an API key for accessing the OpenAI API.
 
-### Install Python Packages
+### 📦 Install Python Packages
 Ensure you have **pip** installed. Then, install the required dependencies listed in `requirements.txt`:
 ```
 pip install -r requirements.txt
 ```
 
-### Set Up OpenAI API
+### 🔑 Set Up OpenAI API
 - Log in to your OpenAI account or create one if you haven't already.
 - Create a new project:
   - Navigate to your account **Dashboard** and click **Create project**.
