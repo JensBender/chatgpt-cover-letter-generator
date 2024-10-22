@@ -17,30 +17,33 @@
 
 ## 📋 Table of Contents
 <ol>
-    <li>
-      <a href="#-about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#️-built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#-usage">Usage</a>
-    </li>
+  <li>
+    <a href="#-about-the-project">About The Project</a>
     <ul>
-        <li><a href="#️-enter-information">Enter Information</a></li>
-        <li><a href="#-create-cover-letter">Create Cover Letter</a></li>
+      <li><a href="#️-built-with">Built With</a></li>
     </ul>
-    <li>
-      <a href="#-getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#install-python-packages">Install Python Packages</a></li>
-        <li><a href="#set-up-openai-api">Set Up OpenAI API</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#️-license">License</a>
-    </li>
+  </li>
+  <li>
+    <a href="#-usage">Usage</a>
+    <ul>
+      <li><a href="#️-enter-information">Enter Information</a></li>
+      <li><a href="#-create-cover-letter">Create Cover Letter</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#-getting-started">Getting Started</a>
+    <ul>
+      <li><a href="#prerequisites">Prerequisites</a></li>
+      <li><a href="#install-python-packages">Install Python Packages</a></li>
+      <li><a href="#set-up-openai-api">Set Up OpenAI API</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#️-license">License</a>
+  </li>
+  <li>
+    <a href="#-credits">Credits</a>
+  </li>
 </ol>
 
 
@@ -251,6 +254,17 @@ pip install -r requirements.txt
 <!-- LICENSE -->
 ## ©️ License
 This project is licensed under the [MIT License](LICENSE).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CREDITS -->
+## 👏 Credits
+This project was made possible with the help of the following resources and tutorials:
+- **Project Logo**: Designed using [LOGO.com](https://logo.com/).
+- **OpenAI API**: The following short courses by Andrew Ng and Isa Fulford. 
+  - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/).
+  - [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
