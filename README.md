@@ -34,7 +34,8 @@
       <a href="#-getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#install-python-packages">Install Python Packages</a></li>
+        <li><a href="#set-up-openai-api">Set Up OpenAI API</a></li>
       </ul>
     </li>
 </ol>
