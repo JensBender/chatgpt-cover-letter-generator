@@ -228,6 +228,7 @@ Ensure you have the following in place before proceeding.
   - **OpenAI**: To interact with OpenAI's chat completions API.
   - **Requests**: To make HTTP requests to get job postings from the web.
   - **BeautifulSoup**: To parse HTML content to extract job descriptions.
+  - **langdetect**: To automatically detect the language of job descriptions.
 - **OpenAI Account**: To generate an API key for accessing the OpenAI API.
 
 ### 📦 Install Python Packages
