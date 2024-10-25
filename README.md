@@ -49,13 +49,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 💡 About The Project
-Utilize AI to write your cover letter. 
+This AI-powered tool is designed to assist job seekers in writing professional cover letters, transforming job postings into tailored applications. Simply provide a job posting URL and your professional background to generate customized cover letters.
 
-How it works:
-- Enter the URL of the job posting you want to apply for and information about yourself. 
-- The ChatGPT cover letter generator will extract information about the employer, the job title, the requirements, the tasks, the contact person and the company address from the job posting. 
-- Then, it will match the education, work experience, skills, and motivation that you provided to the tasks and requirements of the job posting. 
-- Finally, it will add your salary expectations and possible start date and create three cover letter suggestions that you can fine-tune to apply for the job.
+How It Works:
+- **Intelligent Extraction**: AI analyzes job postings to identify and extract crucial information including the job requirements, tasks, employer, job title, contact person and company address.
+- **Matching Qualifications with Requirements**: Automatically aligns your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description.
+- **Personalized Suggestions**: Creates three unique cover letter suggestions, seamlessly incorporating your salary expectations and potential start date, leaving you with ready-to-edit drafts.
+
+Save time and increase your chances of landing interviews with professionally crafted cover letters that effectively showcase your qualifications and strengths.
 
 ### 🛠️ Built With
 - [![ChatGPT][ChatGPT-badge]][ChatGPT-url]
