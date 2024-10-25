@@ -49,14 +49,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 💡 About The Project
-This AI-powered tool is designed to assist job seekers in writing professional cover letters, transforming job postings into tailored applications. Simply provide a job posting URL and your professional background to generate customized cover letters.
+This AI-powered tool is designed to assist job seekers in writing professional cover letters, transforming job postings into compelling, personalized applications. Simply provide a job posting URL and your professional background to generate tailored cover letters.
 
 How It Works:
 - **Intelligent Extraction**: AI analyzes job postings to identify and extract crucial information including the job requirements, tasks, employer, job title, contact person and company address.
 - **Matching Qualifications with Requirements**: Automatically aligns your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description.
-- **Personalized Suggestions**: Creates three unique cover letter suggestions, seamlessly incorporating your salary expectations and potential start date, leaving you with ready-to-edit drafts.
+- **Personalized Suggestions**: Produces three distinct cover letter variations, seamlessly incorporating your salary expectations and potential start date, leaving you with ready-to-edit drafts.
 
-Save time and increase your chances of landing interviews with professionally crafted cover letters that effectively showcase your qualifications and strengths.
+Streamline your job application process and increase your chances of landing interviews with professionally crafted cover letters that effectively showcase your qualifications and strengths.
 
 ### 🛠️ Built With
 - [![ChatGPT][ChatGPT-badge]][ChatGPT-url]
