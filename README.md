@@ -127,7 +127,7 @@ Run `cover_letter_generator.ipynb`. This will extract the relevant information f
 ```
 {
   "employer": "OpenAI",
-  "job title": "Research Scientist",
+  "job_title": "Research Scientist",
   "requirements": [
     "Track record of coming up with new ideas or improving 
     upon existing ideas in machine learning",
@@ -143,7 +143,7 @@ Run `cover_letter_generator.ipynb`. This will extract the relevant information f
     "Advance the research agenda of the team",
     "Collaborate with peers across the organization"
   ],
-  "contact person": "unknown",
+  "contact_person": "unknown",
   "address": "San Francisco, California, United States"
 }
 ```
