@@ -8,7 +8,7 @@
   </a>
   <p>
     <br />
-    Create your cover letter with ChatGPT.
+    AI-powered cover letter generator that crafts personalized applications by analyzing job postings and matching them with your professional qualifications.
     <br />
   </p>
 </div> 
