@@ -212,8 +212,6 @@ Sincerely,
 John Doe
 ```
 
-To create a cover letter in German language, run `cover_letter_generator_de.ipynb`.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
