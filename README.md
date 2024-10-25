@@ -71,7 +71,7 @@ Streamline your job application process and increase your chances of landing int
 <!-- USAGE -->
 ## 💻 Usage
 ### 🖊️ Enter Information
-Enter the URL of the job posting and your motivation to apply for the job in `your_information.py`. 
+Add the job posting URL and your motivation in `your_information.py`. 
 ```
 job_description_url = "https://openai.com/careers/research-scientist"
 
@@ -82,7 +82,7 @@ Use my machine learning skills to contribute to the advancement of AI technology
 """
 ```
 
-Enter your OpenAI API key, name, address, phone number, email, education, work experience, skills, salary expectations and possible start date in `your_information.py`.
+Also add your credentials and professional background in `your_information.py`.
 ```
 # OpenAI API
 OPENAI_API_KEY = "Your_OPENAI_API_key_here"
@@ -123,7 +123,7 @@ possible_start_date = "2023-10-01"
 
 
 ### 📝 Create Cover Letter
-Run `cover_letter_generator.ipynb`. This will extract the relevant information from the job description in json format.
+Execute `cover_letter_generator.ipynb`. This will extract the relevant information from the job description in JSON format.
 ```
 {
   "employer": "OpenAI",
@@ -148,7 +148,7 @@ Run `cover_letter_generator.ipynb`. This will extract the relevant information f
 }
 ```
 
-Next, the `cover_letter_generator.ipynb` will create three cover letter suggestions. Pick the best cover letter, fine-tune it to your needs and use it to apply for the job.
+Next, the `cover_letter_generator.ipynb` will create three cover letter suggestions. Select your preferred version, customize it to your needs and use it to apply for the job.
 ```
 John Doe
 123 Main Street
