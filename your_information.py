@@ -22,8 +22,10 @@ email = "Your_email_here"
 salary_expectations = "Your_salary_expectations_here"
 possible_start_date = "Your_possible_start_date_here"
 
-# Target job details
+# Job posting URL
 job_description_url = "URL_of_job_posting_here"
+
+# Motivation for the job
 motivation = """
 Your_motivation_for_the_job_here
 """
@@ -64,9 +66,11 @@ Your_motivation_for_the_job_here
 # salary_expectations = "$100,000 - $120,000 per year"
 # possible_start_date = "2023-10-01"
 
-# # Target job details
+# # Job posting URL
 # job_description_url = "https://openai.com/careers/research-scientist"
-# motivation = """
+
+# # Motivation for the job
+# Motivation = """
 # Active and highly satisfied ChatGPT user.
 # Fascination for data and all things AI.
 # Use my machine learning skills to contribute to the advancement of AI technology.
