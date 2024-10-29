@@ -71,18 +71,13 @@ Streamline your job application process and increase your chances of landing int
 <!-- USAGE -->
 ## 💻 Usage
 ### 🖊️ Enter Information
-Add the job posting URL, your motivation, your professional background and your OpenAI API key in `your_information.py`. 
+Add your OpenAI API key, professional background, personal information, job posting URL, and motivation for the job in `your_information.py`. 
 
 ```
-# OpenAI API
+# OpenAI API key
 OPENAI_API_KEY = "Your_OPENAI_API_key_here"
 
-# Cover letter input
-name = "John Doe"
-address = "123 Main Street, Anytown, USA"
-phone = "+1 (555) 123-4567"
-email = "john.doe@email.com"
-
+# Professional background
 education = """
 Bachelor of Science in Computer Science, XYZ University, Anytown, USA (2015-2019).
 Master of Science in Machine Learning, ABC University, Somewhere City, USA (2020-2022)                                                  
@@ -105,11 +100,18 @@ Version Control: Git
 Cloud Platforms: AWS, Google Cloud Platform
 """
 
+# Personal information
+name = "John Doe"
+address = "123 Main Street, Anytown, USA"
+phone = "+1 (555) 123-4567"
+email = "john.doe@email.com"
 salary_expectations = "$100,000 - $120,000 per year"
 possible_start_date = "2023-10-01"
 
-# Target job details
+# Job posting URL
 job_description_url = "https://openai.com/careers/research-scientist"
+
+# Motivation for the job
 motivation = """
 Active and highly satisfied ChatGPT user.
 Fascination for data and all things AI.
