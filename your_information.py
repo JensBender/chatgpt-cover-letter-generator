@@ -23,7 +23,7 @@ salary_expectations = "Your_salary_expectations_here"
 possible_start_date = "Your_possible_start_date_here"
 
 # Job posting URL
-job_description_url = "URL_of_job_posting_here"
+job_posting_url = "URL_of_job_posting_here"
 
 # Motivation for the job
 motivation = """
@@ -67,7 +67,7 @@ Your_motivation_for_the_job_here
 # possible_start_date = "2023-10-01"
 
 # # Job posting URL
-# job_description_url = "https://openai.com/careers/research-scientist"
+# job_posting_url = "https://openai.com/careers/research-scientist"
 
 # # Motivation for the job
 # Motivation = """
