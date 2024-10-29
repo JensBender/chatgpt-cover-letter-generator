@@ -109,7 +109,7 @@ salary_expectations = "$100,000 - $120,000 per year"
 possible_start_date = "2023-10-01"
 
 # Job posting URL
-job_description_url = "https://openai.com/careers/research-scientist"
+job_posting_url = "https://openai.com/careers/research-scientist"
 
 # Motivation for the job
 motivation = """
