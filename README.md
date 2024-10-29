@@ -52,9 +52,9 @@
 This AI-powered tool streamlines the cover letter writing process, transforming job postings into compelling, personalized applications. Simply provide a job posting URL and your professional background to generate tailored cover letters in both English and German.
 
 How It Works:
-- **Intelligent Extraction**: AI analyzes job postings to identify and extract crucial information including the job requirements, tasks, employer, job title, contact person and company address.
-- **Matching Qualifications with Requirements**: Automatically aligns your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description.
-- **Personalized Suggestions**: Produces three distinct cover letter variations, seamlessly incorporating your salary expectations and potential start date, leaving you with ready-to-edit drafts.
+- **Intelligent Extraction**: The AI analyzes job postings to identify and extract crucial information, including the job requirements, tasks, job title, employer details such as contact person and company address.
+- **Qualification Matching**: Automatically aligns your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description.
+- **Personalized Suggestions**: Generates four distinct cover letter suggestions that seamlessly incorporate your salary expectations and potential start date, providing you with ready-to-edit drafts.
 
 Streamline your job application process and increase your chances of landing interviews with professionally crafted cover letters that effectively showcase your qualifications and strengths.
 
