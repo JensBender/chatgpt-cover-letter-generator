@@ -71,18 +71,8 @@ Streamline your job application process and increase your chances of landing int
 <!-- USAGE -->
 ## 💻 Usage
 ### 🖊️ Enter Information
-Add the job posting URL and your motivation in `your_information.py`. 
-```
-job_description_url = "https://openai.com/careers/research-scientist"
+Add the job posting URL, your motivation, your professional background and your OpenAI API key in `your_information.py`. 
 
-motivation = """
-Active and highly satisfied ChatGPT user.
-Fascination for data and all things AI.
-Use my machine learning skills to contribute to the advancement of AI technology.
-"""
-```
-
-Also add your credentials and professional background in `your_information.py`.
 ```
 # OpenAI API
 OPENAI_API_KEY = "Your_OPENAI_API_key_here"
@@ -117,6 +107,14 @@ Cloud Platforms: AWS, Google Cloud Platform
 
 salary_expectations = "$100,000 - $120,000 per year"
 possible_start_date = "2023-10-01"
+
+# Target job details
+job_description_url = "https://openai.com/careers/research-scientist"
+motivation = """
+Active and highly satisfied ChatGPT user.
+Fascination for data and all things AI.
+Use my machine learning skills to contribute to the advancement of AI technology.
+"""
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
