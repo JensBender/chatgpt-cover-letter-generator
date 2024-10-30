@@ -52,7 +52,7 @@
 This AI-powered tool streamlines the cover letter writing process, transforming job postings into compelling, personalized applications. Simply provide a job posting URL and your personal background information to generate tailored cover letters.
 
 Project Highlights:
-- **Webscraping**: Obtains the job description text from the job posting URL using `Requests` and `BeautifulSoup`. 
+- **Web Scraping**: Obtains the job description text from the job posting URL using `Requests` and `BeautifulSoup`. 
 - **Language Detection**: Automatically identifies the language of the job description using the `langdetect` library.
 - **Intelligent Information Extraction**: Analyzes job descriptions to identify and extract crucial information, including the job requirements, tasks, job title, and employer details using `OpenAI's chat completions API` with `structured outputs` and the `Pydantic` library for reliable JSON output formatting.
 - **Automated Cover Letter Generation**: Creates three unique cover letter suggestions by aligning your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description.
@@ -128,7 +128,7 @@ Use my machine learning skills to contribute to the advancement of AI technology
 ### 📝 Create Cover Letter
 Run `cover_letter_generator.ipynb` to automate each stage of creating a personalized cover letter:
 
-1. **Webscraping**: Extracts job description text directly from the job posting URL using `Requests` and `BeautifulSoup`. The language of the job description is automatically detected using `langdetect`.
+1. **Web Scraping**: Extracts job description text directly from the job posting URL using `Requests` and `BeautifulSoup`. The language of the job description is automatically detected using `langdetect`.
 2. **Information Extraction**: Uses `OpenAI's chat completions API (beta)` with the `response_format` parameter for `structured outputs` to extract the relevant information from the job description text in JSON format and leverages `Pydantic` to validate the JSON format against a defined schema.
     ```
     {
