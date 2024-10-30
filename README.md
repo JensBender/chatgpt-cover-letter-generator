@@ -52,14 +52,13 @@
 This AI-powered tool streamlines the cover letter writing process, transforming job postings into compelling, personalized applications. Simply provide a job posting URL and your personal background information to generate tailored cover letters.
 
 Project Highlights:
-- **Web Scraping**: Obtains the job description text from the job posting URL using `Requests` and `BeautifulSoup`. 
-- **Language Detection**: Automatically identifies the language of the job description using the `langdetect` library.
-- **Intelligent Information Extraction**: Analyzes job descriptions to identify and extract crucial information, including the job requirements, tasks, job title, and employer details using `OpenAI's chat completions API` with `structured outputs` and the `Pydantic` library for reliable JSON output formatting.
-- **Automated Cover Letter Generation**: Creates three unique cover letter suggestions by aligning your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description.
-- **Refinement and Consolidation**: Reviews and refines each cover letter and consolidates them into a final, optimized cover letter, providing you with ready-to-edit drafts.
-- **Personalization**: Provides cover letters in both English and German, with customizable fields for professional background, motivation, personal information, salary expectations and possible start date.
+- **Web Scraping**: Retrieves the job description text directly from the job posting URL using `Requests` and `BeautifulSoup`, with automatic language detection using `langdetect`.
+- **Intelligent Information Extraction**: Analyzes job descriptions to identify and extract crucial information, including the job requirements, tasks, job title, and employer details using `OpenAI's chat completions API` with `structured outputs`. Leverages `Pydantic` to validate the JSON output.
+- **Automated Cover Letter Generation**: Creates three unique cover letter suggestions by matching personal qualifications with job requirements using `chat completions API`.
+- **Refinement and Consolidation**: Reviews and refines each cover letter, then consolidates them into a final, optimized cover letter, providing you with ready-to-edit drafts.
+- **Multilingual and Personalization Support**: Provides cover letters in both English and German and allows customization for personal background, motivation, salary expectations, and start date.
 
-Streamline your job application process and increase your chances of landing interviews with professionally crafted cover letters that effectively showcase your qualifications and strengths.
+Streamline your job application process and increase your chances of landing interviews with professionally crafted cover letters that effectively showcase your qualifications.
 
 ### 🛠️ Built With
 - [![ChatGPT][ChatGPT-badge]][ChatGPT-url]
@@ -154,7 +153,7 @@ Run `cover_letter_generator.ipynb` to automate each stage of creating a personal
     }
     ```
 
-3. **Cover Letter Generation**: Produces three unique cover letter suggestions by matching personal qualifications with job requirements using `OpenAI's chat completions API` and language-specific prompts in both English and German. 
+3. **Cover Letter Generation**: Produces three unique cover letter suggestions by aligning your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description using `OpenAI's chat completions API` and language-specific prompts in both English and German. 
 4. **Cover Letter Refinement**: Reviews and refines each cover letter leveraging `chat completions API` with specific refinement prompts. 
 5. **Cover Letter Consolidation**: Combines the best parts of each refined cover letter into a single, cohesive cover letter using `chat completions API` with dedicated consolidation prompts. 
 6. **Save Cover Letters as Text File**: Exports the consolidated cover letter and the three refined cover letters to a `.txt` file for easy access and final editing.
