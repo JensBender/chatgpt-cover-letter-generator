@@ -126,32 +126,39 @@ Use my machine learning skills to contribute to the advancement of AI technology
 
 
 ### 📝 Create Cover Letter
-Execute `cover_letter_generator.ipynb`. This will extract the relevant information from the job description in JSON format.
-```
-{
-  "employer": "OpenAI",
-  "job_title": "Research Scientist",
-  "requirements": [
-    "Track record of coming up with new ideas or improving 
-    upon existing ideas in machine learning",
-    "Ability to own and pursue a research agenda",
-    "Excitement about OpenAI's approach to research",
-    "Nice to have: Interested in and thoughtful about the 
-    impacts of AI technology",
-    "Nice to have: Past experience in creating high-performance 
-    implementations of deep learning algorithms"
-  ],
-  "tasks": [
-    "Develop innovative machine learning techniques",
-    "Advance the research agenda of the team",
-    "Collaborate with peers across the organization"
-  ],
-  "contact_person": "unknown",
-  "address": "San Francisco, California, United States"
-}
-```
+Run `cover_letter_generator.ipynb`. This will complete the following tasks:
 
-Next, the `cover_letter_generator.ipynb` will create three cover letter suggestions. Select your preferred version, customize it to your needs and use it to apply for the job.
+1. **Webscraping**: To get the job description text from the URL of the job posting using `Requests` and `BeautifulSoup`. Moreover, it will automatically detect the language of the job description using `langdetect`.
+2. **Information Extraction**: To get the relevant information from the job description text in JSON format using `OpenAI's chat completions API (beta)` with `response_format` parameter for `structured outputs` and by leveraging the `Pydantic` library to define a clear and robust JSON schema for validating and structuring the extracted data.
+    ```
+    {
+      "employer": "OpenAI",
+      "job_title": "Research Scientist",
+      "requirements": [
+        "Track record of coming up with new ideas or improving 
+        upon existing ideas in machine learning",
+        "Ability to own and pursue a research agenda",
+        "Excitement about OpenAI's approach to research",
+        "Nice to have: Interested in and thoughtful about the 
+        impacts of AI technology",
+        "Nice to have: Past experience in creating high-performance 
+        implementations of deep learning algorithms"
+      ],
+      "tasks": [
+        "Develop innovative machine learning techniques",
+        "Advance the research agenda of the team",
+        "Collaborate with peers across the organization"
+      ],
+      "contact_person": "unknown",
+      "address": "San Francisco, California, United States"
+    }
+    ```
+
+3. **Cover Letter Generation**: To create three cover letter suggestions by matching qualifications with job requirements using `OpenAI's chat completions API` with specific generation prompts and system prompts in both English and German. 
+4. **Cover Letter Refinement**: To review and refine the three cover letter suggestions using job information by invoking `OpenAI's chat completions API` with specific refinement prompts and system prompts. 
+5. **Cover Letter Consolidation**: To create the best cover letter based on the three refined cover letters and job information using `OpenAI's chat completions API` with specific consolidation prompts and system prompts. 
+6. **Save Cover Letters as Text File**: To save the consolidated cover letter and the three refined cover letters as a `.txt` file for easy access and final editing.
+
 ```
 John Doe
 123 Main Street
