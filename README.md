@@ -74,7 +74,7 @@ Streamline your job application process and increase your chances of landing int
 <!-- USAGE -->
 ## 💻 Usage
 ### 🖊️ Enter Information
-Add your OpenAI API key, job posting URL, professional background, personal information, and motivation for the job in `your_information.py`. 
+To get started, input your API key, job posting URL, professional background, personal information, and motivation in `your_information.py`. 
 
 ```
 # OpenAI API key
