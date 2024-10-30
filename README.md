@@ -52,7 +52,8 @@
 This AI-powered tool streamlines the cover letter writing process, transforming job postings into compelling, personalized applications. Simply provide a job posting URL and your personal background information to generate tailored cover letters.
 
 Project Highlights:
-- **Language Detection**: Automatically identifies the language of the job posting using the `langdetect` library.
+- **Webscraping**: Obtains the job description text from the job posting URL using `Requests` and `BeautifulSoup`. 
+- **Language Detection**: Automatically identifies the language of the job description using the `langdetect` library.
 - **Intelligent Information Extraction**: Analyzes job descriptions to identify and extract crucial information, including the job requirements, tasks, job title, and employer details using `OpenAI's chat completions API` with `structured outputs` and the `Pydantic` library for reliable JSON output formatting.
 - **Automated Cover Letter Generation**: Creates three unique cover letter suggestions by aligning your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description.
 - **Refinement and Consolidation**: Reviews and refines each cover letter and consolidates them into a final, optimized cover letter, providing you with ready-to-edit drafts.
