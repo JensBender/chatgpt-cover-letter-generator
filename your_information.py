@@ -1,6 +1,9 @@
 # OpenAI API key
 OPENAI_API_KEY = "Your_OPENAI_API_key_here"
 
+# Job posting URL
+job_posting_url = "URL_of_job_posting_here"
+
 # Professional background
 education = """
 Describe_your_education_here
@@ -22,9 +25,6 @@ email = "Your_email_here"
 salary_expectations = "Your_salary_expectations_here"
 possible_start_date = "Your_possible_start_date_here"
 
-# Job posting URL
-job_posting_url = "URL_of_job_posting_here"
-
 # Motivation for the job
 motivation = """
 Your_motivation_for_the_job_here
@@ -34,6 +34,9 @@ Your_motivation_for_the_job_here
 # =========================
 #         EXAMPLE       
 # =========================
+
+# # Job posting URL
+# job_posting_url = "https://openai.com/careers/research-scientist"
 
 # # Professional background
 # education = """
@@ -65,9 +68,6 @@ Your_motivation_for_the_job_here
 # email = "john.doe@email.com"
 # salary_expectations = "$100,000 - $120,000 per year"
 # possible_start_date = "2023-10-01"
-
-# # Job posting URL
-# job_posting_url = "https://openai.com/careers/research-scientist"
 
 # # Motivation for the job
 # Motivation = """
