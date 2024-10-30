@@ -71,11 +71,14 @@ Streamline your job application process and increase your chances of landing int
 <!-- USAGE -->
 ## 💻 Usage
 ### 🖊️ Enter Information
-Add your OpenAI API key, professional background, personal information, job posting URL, and motivation for the job in `your_information.py`. 
+Add your OpenAI API key, job posting URL, professional background, personal information, and motivation for the job in `your_information.py`. 
 
 ```
 # OpenAI API key
 OPENAI_API_KEY = "Your_OPENAI_API_key_here"
+
+# Job posting URL
+job_posting_url = "https://openai.com/careers/research-scientist"
 
 # Professional background
 education = """
@@ -107,9 +110,6 @@ phone = "+1 (555) 123-4567"
 email = "john.doe@email.com"
 salary_expectations = "$100,000 - $120,000 per year"
 possible_start_date = "2023-10-01"
-
-# Job posting URL
-job_posting_url = "https://openai.com/careers/research-scientist"
 
 # Motivation for the job
 motivation = """
