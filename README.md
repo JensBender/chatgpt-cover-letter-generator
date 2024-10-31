@@ -240,6 +240,7 @@ Ensure you have the following in place before proceeding.
   - **Requests**: To make HTTP requests to get job postings from the web.
   - **BeautifulSoup**: To parse HTML content to extract job descriptions.
   - **langdetect**: To automatically detect the language of job descriptions.
+  - **Pydantic**: To validate the job information JSON output.
 - **OpenAI Account**: To generate an API key for accessing the OpenAI API.
 
 ### 📦 Install Python Packages
