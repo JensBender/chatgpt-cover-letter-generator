@@ -111,7 +111,7 @@ address = "123 Main Street, Anytown, USA"
 phone = "+1 (555) 123-4567"
 email = "john.doe@email.com"
 salary_expectations = "$100,000 - $120,000 per year"
-possible_start_date = "2023-10-01"
+possible_start_date = "2024-10-01"
 
 # Motivation for the job
 motivation = """
@@ -166,7 +166,7 @@ Anytown, USA
 +1 (555) 123-4567
 john.doe@email.com
 
-June 28, 2023
+June 28, 2024
 
 OpenAI
 San Francisco, California, United States
@@ -210,7 +210,7 @@ experience, has equipped me with a strong foundation in both theoretical
 concepts and practical applications of machine learning.
 
 In terms of salary expectations, I am seeking a range of $100,000 - 
-$120,000 per year. My possible start date would be October 1, 2023.
+$120,000 per year. My possible start date would be October 1, 2024.
 
 Thank you for considering my application. I am excited about the 
 opportunity to contribute to OpenAI's research efforts and advance the 
