@@ -153,7 +153,7 @@ Run `cover_letter_generator.ipynb` to automate each stage of creating a personal
     }
     ```
 
-3. **Cover Letter Generation**: Produces three unique cover letter suggestions by aligning your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description using `OpenAI's chat completions API` and language-specific prompts in both English and German. 
+3. **Cover Letter Generation**: Produces three unique cover letter suggestions by aligning your education, work experience, skills, and motivation to the tasks and requirements outlined in the job description using `chat completions API` and language-specific prompts in both English and German. 
 4. **Cover Letter Refinement**: Reviews and refines each cover letter leveraging `chat completions API` with specific refinement prompts. 
 5. **Cover Letter Consolidation**: Combines the best parts of each refined cover letter into a single, cohesive cover letter using `chat completions API` with dedicated consolidation prompts. 
 6. **Save Cover Letters as Text File**: Exports the consolidated cover letter and the three refined cover letters to a `.txt` file for easy access and final editing.
