@@ -285,7 +285,7 @@ This project was made possible with the help of the following resources and tuto
 
 <!-- MARKDOWN LINKS -->
 [ChatGPT-badge]: https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
-[ChatGPT-url]: https://openai.com/blog/chatgpt
+[ChatGPT-url]: https://chatgpt.com/
 [Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 [Requests-badge]: https://img.shields.io/badge/Requests-black?style=for-the-badge
