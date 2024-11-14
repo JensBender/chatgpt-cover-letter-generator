@@ -8,7 +8,7 @@
   </a>
   <p>
     <br />
-    AI-powered cover letter generator that crafts personalized applications by analyzing job postings and matching them with your professional qualifications.
+    AI-powered assistant that extracts key information from job postings to generate and refine customized cover letters that align personal qualifications with job requirements, leveraging web scraping and the OpenAI API. 
     <br />
   </p>
 </div> 
