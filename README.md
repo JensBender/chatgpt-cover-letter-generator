@@ -1,8 +1,8 @@
 <!-- anchor tag for back-to-top links -->
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<img src="images/logo.png" width=80%>
+<!-- HEADER IMAGE  -->
+<img src="images/header_image.png">
 
 <!-- SHORT SUMMARY  -->
 AI-powered assistant that extracts key information from job postings to generate and refine customized cover letters that align personal qualifications with job requirements, leveraging web scraping and the OpenAI API. 
