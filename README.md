@@ -2,16 +2,10 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<div align="center">
-  <a href="https://github.com/JensBender/chatgpt-cover-letter-generator">
-    <img src="images/logo.png" width=80%>
-  </a>
-  <p>
-    <br />
-    AI-powered assistant that extracts key information from job postings to generate and refine customized cover letters that align personal qualifications with job requirements, leveraging web scraping and the OpenAI API. 
-    <br />
-  </p>
-</div> 
+<img src="images/logo.png" width=80%>
+
+<!-- SHORT SUMMARY  -->
+AI-powered assistant that extracts key information from job postings to generate and refine customized cover letters that align personal qualifications with job requirements, leveraging web scraping and the OpenAI API. 
 
 ---
 
