@@ -5,7 +5,7 @@
 <img src="images/header_image.png">
 
 <!-- SHORT SUMMARY  -->
-AI-powered assistant that extracts key information from job postings to generate and refine customized cover letters that align personal qualifications with job requirements, leveraging web scraping and the OpenAI API. 
+Built a workflow that extracts key information from job postings via web scraping and uses the OpenAI API to generate and refine customized cover letters, aligning personal qualifications with job requirements.
 
 ---
 
